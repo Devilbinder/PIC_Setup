@@ -8,6 +8,9 @@ Basic project setup for MPLAB X with PIC18F4520 and XC8 Compiler
 Shekels: 
 https://www.paypal.me/bindertronics9/5
 
+Patreon:
+https://www.patreon.com/BinderTronics
+
 Bitcoin: 
 19nohZzWXxVuZ9tZvw8Pvhajt5khG5mspW
 
